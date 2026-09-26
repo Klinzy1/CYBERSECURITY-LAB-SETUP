@@ -1,8 +1,8 @@
 Project Report: Advanced Cybersecurity and Pentesting Lab Setup
 Author: John Clinton Elochukwu 
-Repository Name: NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP
-Documentation Type: Engineering Lab Report / Deployment Guide
+
 1. Project Overview
+
 This project documents the design, deployment, and configuration of an isolated, virtualized sandbox environment tailored for professional cybersecurity training and ethical hacking.
 The primary objective of this architecture is to provide a fully functional, safe, and logical workspace where vulnerability assessments, penetration testing methodologies, and defensive techniques can be explored exhaustively without exposing the host operating system or production network to unnecessary risk.
 
